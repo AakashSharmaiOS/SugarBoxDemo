@@ -1,0 +1,6 @@
+framework module Pods_SugarBoxDemo {
+  umbrella header "Pods-SugarBoxDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
